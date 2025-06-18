@@ -161,7 +161,7 @@
   <script>
     function checkLogin() {
       const password = document.getElementById('password').value;
-      if (password === 'zeusshop') {
+      if (password === '55555') {
         document.getElementById('login').classList.add('hidden');
         document.getElementById('panel').classList.remove('hidden');
       } else {
